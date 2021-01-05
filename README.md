@@ -1,4 +1,9 @@
-
+Yulia
+yulia 1
+yulia 2
+yulia 3
+yulia 3
+yulia4 S
 Hi! 👋
 
 You've opened the IDE Sandbox, an environment that you can access on "readme" and "code-along" lessons in Learn. It's a great place to experiment with code! 🎉
